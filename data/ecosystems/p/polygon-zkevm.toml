@@ -20,6 +20,7 @@ sub_ecosystems = [
   "Symbiosis Finance",
   "WOO Network",
   "XY Finance",
+  "ZK Zapper",
 ]
 
 github_organizations = ["https://github.com/0xPolygonHermez"]
